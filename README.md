@@ -1,4 +1,4 @@
-The ETMC has performed three pion scattering on `N_f = 2` Wilson clover twisted mass lattices. In this repository you can find the energy levels such that an independent analysis is possible. If you are using this data in a publication, we ask you to cite (arXiv:2008.03035)[https://arxiv.org/abs/2008.03035].
+The ETMC has performed three pion scattering on `N_f = 2` Wilson clover twisted mass lattices. In this repository you can find the energy levels such that an independent analysis is possible. If you are using this data in a publication, we ask you to cite https://arxiv.org/abs/2008.03035.
 
 There is the spectrum in the files starting with `cm_mass`. These contain the interacting center of mass energies, the pion mass and their ratio. The files with `pion_decay` contain the pion decay constant that is measured on the same data with full correlation.
 
